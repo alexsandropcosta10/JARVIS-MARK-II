@@ -1,0 +1,30 @@
+JARVIS MARK II — LEIA ANTES DE PUBLICAR
+
+Esta é uma versão reconstruída e independente. Ainda precisa ser testada no navegador e não migra automaticamente o progresso da Mark I. NÃO apague nem substitua a Mark I.
+
+ARQUIVOS:
+index.html = página principal
+styles.css = visual
+app.js = funcionalidades
+manifest.webmanifest = configuração PWA
+sw.js = cache offline
+icon.svg = ícone
+
+PUBLICAÇÃO:
+1. Crie um repositório NOVO no GitHub chamado Jarvis-Mark-II.
+2. Abra a pasta extraída deste ZIP.
+3. No repositório, escolha Add file > Upload files.
+4. Envie os ARQUIVOS que estão DENTRO da pasta extraída (index.html, styles.css, app.js etc.). Não envie somente a pasta externa.
+5. Faça o commit.
+6. Vá em Settings > Pages.
+7. Escolha Deploy from a branch, branch main e pasta /(root), depois Save.
+8. Aguarde o endereço do GitHub Pages e abra.
+
+TESTE:
+Abra o site e confirme se aparece o painel escuro/vermelho/dourado. Crie uma missão de teste, conclua e atualize a página para conferir se salvou.
+
+DADOS:
+Os dados ficam no armazenamento local deste navegador e dispositivo. Em Configurações, use Exportar backup para guardar uma cópia JSON. Não limpe os dados do navegador. Importar backup substitui os dados atuais.
+
+RECURSOS:
+XP e níveis; missões; desafios opcionais; gráfico dos últimos 7 dias; nome de exibição; backup exportar/importar; protocolo E-01; cache offline após abrir online pela primeira vez.
